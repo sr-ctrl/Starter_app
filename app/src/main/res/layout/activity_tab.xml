@@ -46,7 +46,7 @@
             android:maxLines="1"
             android:ellipsize="end"
             android:layout_marginTop="10dp"
-            android:textColor="@color/blue"
+            android:textColor="@drawable/tab_color"
             android:textSize="12sp"
             tools:ignore="MissingConstraints" />
 
