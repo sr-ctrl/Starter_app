@@ -4,51 +4,35 @@
     xmlns:tools="http://schemas.android.com/tools"
     tools:context=".Tab_Activity">
 
-
     <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/layout_root"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        >
-        <com.google.android.material.appbar.AppBarLayout
-            android:id="@+id/app_bar"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent">
-
-            <com.google.android.material.tabs.TabLayout
-                android:id="@+id/tab_layout"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:elevation="4dp"
-                app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toTopOf="parent"
-                app:tabInlineLabel="true"
-                app:tabMode="fixed"
-                app:tabRippleColor="@null"
-                app:tabSelectedTextColor="@color/lightChoclate"
-                app:tabTextColor="@color/black" />
-        </com.google.android.material.appbar.AppBarLayout>
-
+        android:background="@color/choclate"
+        android:layout_height="match_parent">
         <androidx.viewpager2.widget.ViewPager2
-            android:id="@+id/viewPage2"
+            android:id="@+id/view_pager"
             android:layout_width="match_parent"
             android:layout_height="0dp"
-            app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/app_bar" />
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:id="@+id/textView"
-            android:maxLines="1"
-            android:ellipsize="end"
-            android:layout_marginTop="10dp"
-            android:textColor="@drawable/tab_color"
-            android:textSize="12sp"
-            tools:ignore="MissingConstraints" />
+            app:layout_constraintHeight_percent="0.92"
+            android:background="@color/white"
+            app:layout_constraintTop_toTopOf="parent"
+            />
+        <com.google.android.material.tabs.TabLayout
+            android:id="@+id/tab_layout"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            app:layout_constraintHeight_percent="0.08"
+            app:layout_constraintTop_toBottomOf="@+id/view_pager"
+            android:clipToPadding="true"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:tabGravity="fill"
+            app:tabIndicatorColor="@color/white"
+            app:tabIndicatorHeight="0dp"
+            android:background="@color/choclate"
+            app:tabMode="fixed"
+            app:tabPaddingEnd="0dp"
+            app:tabPaddingStart="0dp" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 </layout>

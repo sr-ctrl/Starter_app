@@ -36,6 +36,7 @@ class Fragment_one : Fragment() {
 
       binding.dataClass = data
 
+        // send text to fragment two
         binding.apply {
             sendBtn.setOnClickListener {
                 val result = Bundle()

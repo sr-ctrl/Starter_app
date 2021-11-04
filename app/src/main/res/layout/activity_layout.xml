@@ -3,11 +3,6 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     tools:context=".Extra.Layout_Activity">
-    <!--For Data binding we need to creat a block of variable
-     and assign the data class which we want to bind with variable
-            1.it contain a name which is typical data class name
-            2.full package name of our data class
-     -->
     <data>
         <variable
             name="myNameClass"

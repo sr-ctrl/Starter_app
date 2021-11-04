@@ -61,4 +61,15 @@
     <string name="start">Start</string>
     <string name="hint_fragment_two">Send Text to Fragment Three</string>
     <string name="tv_hint_frag_two">Text from the fragment one</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="message">Message</string>
+    <string name="settings">setting</string>
+    <string name="box_three">Box Three</string>
+    <string name="box_four">Box Four</string>
+    <string name="box_five">Box five</string>
+    <string name="roll_btn_text">Roll</string>
+    <string name="recycler_heading_sample_text">sample Text</string>
+    <string name="recycler_dummy_text">sample Text for description sample Text for description sample Text for description \nDummay text for description</string>
+    <string name="recycler_dummy_title_headingtxt">Sample Test Title Heading</string>
 </resources>

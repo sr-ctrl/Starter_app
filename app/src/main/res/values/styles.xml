@@ -20,9 +20,9 @@
 
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Theme customization. -->
-        <item name="colorPrimary">@color/colorPrimary</item>
-        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
-        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorPrimary">@color/lightChoclate</item>
+        <item name="colorPrimaryVariant">@color/lightChoclate</item>
+        <item name="colorOnPrimary">@color/choclate</item>
     </style>
 
     <style name="btn_style">

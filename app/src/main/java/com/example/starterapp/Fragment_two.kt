@@ -32,7 +32,7 @@ class Fragment_two() : Fragment() {
         // Inflate the layout for this fragment
         val binding:FragmentTwoBinding= DataBindingUtil.inflate(layoutInflater,R.layout.fragment_two, container, false)
 
-        // getting Text From Fragment two
+        // getting Text From Fragment one
             activity?.supportFragmentManager?.setFragmentResultListener("DataKey",this) { requestKey, bundle ->
                 val result = bundle.getString("data")
                 Log.i("reciver", "$result ")
@@ -40,8 +40,6 @@ class Fragment_two() : Fragment() {
                     binding.tvText2.text = result
                 }
             }
-
-
         return binding.root
     }
 }

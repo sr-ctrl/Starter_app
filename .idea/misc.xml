@@ -7,10 +7,25 @@
         <entry key="..\:/Android Training/Starter App/app/src/main/res/drawable/android.xml" value="0.2703125" />
         <entry key="..\:/Android Training/Starter App/app/src/main/res/drawable/android_category_simple.xml" value="0.2703125" />
         <entry key="..\:/Android Training/Starter App/app/src/main/res/drawable/android_trivia.xml" value="0.2703125" />
+        <entry key="..\:/Android Training/Starter App/app/src/main/res/drawable/dice_1.xml" value="0.2703125" />
+        <entry key="..\:/Android Training/Starter App/app/src/main/res/drawable/dice_2.xml" value="0.2703125" />
+        <entry key="..\:/Android Training/Starter App/app/src/main/res/drawable/dice_3.xml" value="0.2703125" />
+        <entry key="..\:/Android Training/Starter App/app/src/main/res/drawable/dice_4.xml" value="0.2703125" />
+        <entry key="..\:/Android Training/Starter App/app/src/main/res/drawable/dice_5.xml" value="0.2703125" />
+        <entry key="..\:/Android Training/Starter App/app/src/main/res/drawable/dice_6.xml" value="0.2703125" />
+        <entry key="..\:/Android Training/Starter App/app/src/main/res/drawable/ic_call.xml" value="0.2703125" />
+        <entry key="..\:/Android Training/Starter App/app/src/main/res/drawable/ic_favorite.xml" value="0.2703125" />
+        <entry key="..\:/Android Training/Starter App/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
         <entry key="..\:/Android Training/Starter App/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.14739583333333334" />
         <entry key="..\:/Android Training/Starter App/app/src/main/res/drawable/ic_person.xml" value="0.2703125" />
+        <entry key="..\:/Android Training/Starter App/app/src/main/res/drawable/ic_recyclerview.xml" value="0.2703125" />
+        <entry key="..\:/Android Training/Starter App/app/src/main/res/drawable/message.xml" value="0.2703125" />
         <entry key="..\:/Android Training/Starter App/app/src/main/res/drawable/nav_header.xml" value="0.2703125" />
+        <entry key="..\:/Android Training/Starter App/app/src/main/res/drawable/reycler_item_style.xml" value="0.2703125" />
+        <entry key="..\:/Android Training/Starter App/app/src/main/res/drawable/rules.xml" value="0.2703125" />
+        <entry key="..\:/Android Training/Starter App/app/src/main/res/drawable/search.xml" value="0.2703125" />
         <entry key="..\:/Android Training/Starter App/app/src/main/res/drawable/selected_tab.xml" value="0.2703125" />
+        <entry key="..\:/Android Training/Starter App/app/src/main/res/drawable/settings.xml" value="0.2703125" />
         <entry key="..\:/Android Training/Starter App/app/src/main/res/drawable/share.xml" value="0.2703125" />
         <entry key="..\:/Android Training/Starter App/app/src/main/res/drawable/tab_color.xml" value="0.2703125" />
         <entry key="..\:/Android Training/Starter App/app/src/main/res/drawable/tab_rect.xml" value="0.2703125" />
@@ -29,10 +44,15 @@
         <entry key="..\:/Android Training/Starter App/app/src/main/res/layout/costum_tab_layout.xml" value="0.25416666666666665" />
         <entry key="..\:/Android Training/Starter App/app/src/main/res/layout/custom_tab.xml" value="0.25416666666666665" />
         <entry key="..\:/Android Training/Starter App/app/src/main/res/layout/fragment_game_over.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Training/Starter App/app/src/main/res/layout/fragment_two.xml" value="0.25416666666666665" />
         <entry key="..\:/Android Training/Starter App/app/src/main/res/layout/fragment_welcom.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Training/Starter App/app/src/main/res/layout/fragmet_one.xml" value="0.25416666666666665" />
         <entry key="..\:/Android Training/Starter App/app/src/main/res/layout/nav_header.xml" value="0.25416666666666665" />
         <entry key="..\:/Android Training/Starter App/app/src/main/res/layout/recycler_item_a.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Training/Starter App/app/src/main/res/layout/recycler_item_b.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Training/Starter App/app/src/main/res/layout/recycler_view_fragment.xml" value="0.25416666666666665" />
         <entry key="..\:/Android Training/Starter App/app/src/main/res/layout/tab_appear.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Training/Starter App/app/src/main/res/layout/tab_fragment_three.xml" value="0.25416666666666665" />
         <entry key="..\:/Android Training/Starter App/app/src/main/res/layout/tab_fragment_two.xml" value="0.25416666666666665" />
         <entry key="..\:/Android Training/Starter App/app/src/main/res/layout/tab_fragmet_one.xml" value="0.25416666666666665" />
         <entry key="..\:/Android Training/Starter App/app/src/main/res/layout/tab_home.xml" value="0.25416666666666665" />
