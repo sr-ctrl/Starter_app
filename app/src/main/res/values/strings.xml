@@ -64,7 +64,7 @@
     <string name="home">Home</string>
     <string name="search">Search</string>
     <string name="message">Message</string>
-    <string name="settings">setting</string>
+    <string name="settings">Settings</string>
     <string name="box_three">Box Three</string>
     <string name="box_four">Box Four</string>
     <string name="box_five">Box five</string>
@@ -72,4 +72,14 @@
     <string name="recycler_heading_sample_text">sample Text</string>
     <string name="recycler_dummy_text">sample Text for description sample Text for description sample Text for description \nDummay text for description</string>
     <string name="recycler_dummy_title_headingtxt">Sample Test Title Heading</string>
+
+    // tip Calculator string
+    <string name="service_cost_et_txt">Cost Of the Service</string>
+    <string name="feed_tv_txt">How the Service?</string>
+    <string name="amazing_20">Amazing (20%)</string>
+    <string name="good_18">Good (18%)</string>
+    <string name="ok_15">Ok (15%)</string>
+    <string name="round_up_tip">Round Up Tip?</string>
+    <string name="tip_amount" formatted="false">Tip Amount :$ </string>
+    <string name="label">Cost_Service</string>
 </resources>

@@ -51,4 +51,19 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
     implementation'androidx.recyclerview:recyclerview-selection:1.1.0'
     implementation'androidx.recyclerview:recyclerview:1.2.1'
+    // retrofit and GsonConvereterFactory
+    implementation 'com.squareup.retrofit2:retrofit:2.9.0'
+    implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
+    // coroutin
+
+    implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-android:1.5.2'
+    implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-core:1.5.2'
+
+    def koin_version = "2.0.1"
+    implementation "org.koin:koin-android:$koin_version"
+    // use org.koin:koin-android-viewmodel instead for non-androidx projects!
+    implementation "org.koin:koin-androidx-viewmodel:$koin_version"
+    implementation "org.koin:koin-core:$koin_version"
+    //viewmodel dependency
+    implementation 'androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.0'
 }

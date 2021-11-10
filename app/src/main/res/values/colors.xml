@@ -12,4 +12,22 @@
     <color name="choclate">#351717</color>
     <color name="lightChoclate">#D8B3B3</color>
     <color name="grey">#DAD6D6</color>
+
+
+    // Tip Calculator Theme Color
+    //primary
+    <color name="Primary">#37464f</color>
+    <color name="Primary_Dark">#101f27</color>
+    <color name="Primary_Light">#62717b</color>
+
+    //Secondary
+    <color name="Secondary">#263238</color>
+    <color name="Secondary_Dark">#000a12</color>
+    <color name="Secondary_Light">#4f5b62</color>
+
+
+
+
+
+
 </resources>

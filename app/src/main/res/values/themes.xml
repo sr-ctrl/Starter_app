@@ -18,4 +18,21 @@
         <item name="textAllCaps" >false</item>
         <item name="android:textSize">24dp</item>
     </style>
+
+    // Tip Calculator Theme
+    <style name="Theme.Tip_Calculator" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/Primary</item>
+        <item name="colorPrimaryVariant">@color/Primary_Dark</item>
+        <item name="colorOnPrimary">@color/Primary_Light</item>
+        <!-- Secondary brand color. -->
+
+        <item name="colorSecondary">@color/Secondary</item>
+        <item name="colorSecondaryVariant">@color/Secondary_Dark</item>
+        <item name="colorOnSecondary">@color/Secondary_Light</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
 </resources>

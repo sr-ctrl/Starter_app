@@ -7,7 +7,6 @@
     <androidx.constraintlayout.widget.ConstraintLayout
         android:id="@+id/layout_root"
         android:layout_width="match_parent"
-        android:background="@color/choclate"
         android:layout_height="match_parent">
         <androidx.viewpager2.widget.ViewPager2
             android:id="@+id/view_pager"

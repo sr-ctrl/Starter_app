@@ -26,7 +26,6 @@ class Tab_Activity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         binding =DataBindingUtil.setContentView(this,R.layout.activity_tab)
         setupTab()
-
     }
 
     private fun setupTab() {

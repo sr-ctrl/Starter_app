@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.starterapp">
-
+    <uses-permission android:name="android.permission.INTERNET"/>
     <application
         android:allowBackup="true"
+        android:name=".mvvm.application_koin.Base_Application"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.StarterApp">
         <activity
-            android:name=".Tab_Activity"
-            android:exported="true">
+            android:name=".mvvm.Retrofit_Activity"
+            android:exported="true"
+            android:theme="@style/Theme.Tip_Calculator">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -19,15 +21,23 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".Extra.ConstrainLayout"
+            android:theme="@style/Theme.Tip_Calculator"
+            android:label="Tip Calculator"
+            android:name=".Tip_Calculator.Tip_Calculator_activity"
             android:exported="true">
         </activity>
+        <activity
+            android:name=".Tab_Activity"
+            android:exported="true"/>
+        <activity
+            android:name=".Extra.ConstrainLayout"
+            android:exported="true"/>
         <activity
             android:name=".Extra.Layout_Activity"
             android:exported="true" />
         <activity
             android:name=".Roller_Dice.MainActivity"
-            android:exported="true" />
+            android:exported="true"/>
 
         <meta-data
             android:name="preloaded_fonts"
