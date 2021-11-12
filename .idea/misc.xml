@@ -7,6 +7,7 @@
         <entry key="..\:/Android Training/Starter App/app/src/main/res/drawable/android.xml" value="0.2703125" />
         <entry key="..\:/Android Training/Starter App/app/src/main/res/drawable/android_category_simple.xml" value="0.2703125" />
         <entry key="..\:/Android Training/Starter App/app/src/main/res/drawable/android_trivia.xml" value="0.2703125" />
+        <entry key="..\:/Android Training/Starter App/app/src/main/res/drawable/btn_tip_calculator.xml" value="0.2703125" />
         <entry key="..\:/Android Training/Starter App/app/src/main/res/drawable/dice_1.xml" value="0.2703125" />
         <entry key="..\:/Android Training/Starter App/app/src/main/res/drawable/dice_2.xml" value="0.2703125" />
         <entry key="..\:/Android Training/Starter App/app/src/main/res/drawable/dice_3.xml" value="0.2703125" />
@@ -39,8 +40,12 @@
         <entry key="..\:/Android Training/Starter App/app/src/main/res/layout/activity_constrain_layout.xml" value="0.25416666666666665" />
         <entry key="..\:/Android Training/Starter App/app/src/main/res/layout/activity_layout.xml" value="0.25416666666666665" />
         <entry key="..\:/Android Training/Starter App/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Training/Starter App/app/src/main/res/layout/activity_movies.xml" value="0.25416666666666665" />
         <entry key="..\:/Android Training/Starter App/app/src/main/res/layout/activity_navigation.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Training/Starter App/app/src/main/res/layout/activity_retrofit.xml" value="0.25416666666666665" />
         <entry key="..\:/Android Training/Starter App/app/src/main/res/layout/activity_tab.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Training/Starter App/app/src/main/res/layout/activity_tip_calculator.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Training/Starter App/app/src/main/res/layout/adapter_movie_item.xml" value="0.25416666666666665" />
         <entry key="..\:/Android Training/Starter App/app/src/main/res/layout/costum_tab_layout.xml" value="0.25416666666666665" />
         <entry key="..\:/Android Training/Starter App/app/src/main/res/layout/custom_tab.xml" value="0.25416666666666665" />
         <entry key="..\:/Android Training/Starter App/app/src/main/res/layout/fragment_game_over.xml" value="0.25416666666666665" />
